@@ -14,13 +14,15 @@ Objetivos
 
 Exercitar os seguintes conceitos trabalhados no Módulo:  
 
-Utilização de elementos HTML. 
-Utilização de CSS. 
-Utilização de identificadores em elementos HTML. 
-Captura de referência de elementos com JavaScript. 
-Manipulação de eventos com JavaScript. 
-Utilização de funções com JavaScript e CSS. 
-Manipulação direta de CSS com JavaScript.
+<ul>
+  <li>Utilização de elementos HTML. </li>
+  <li>Utilização de CSS. </li>
+  <li>Utilização de identificadores em elementos HTML. </li>
+  <li>Captura de referência de elementos com JavaScript. </li>
+  <li>Manipulação de eventos com JavaScript. </li>
+  <li>Utilização de funções com JavaScript e CSS. </li>
+  <li>Manipulação direta de CSS com JavaScript.</li>
+</ul>
 
 Enunciado
 
